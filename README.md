@@ -1,2 +1,3 @@
-# Primeiro-comando-C-
-Treinando C#
+# Primeiro em C#
+
+Todos direitos reservados BigFabiano®
